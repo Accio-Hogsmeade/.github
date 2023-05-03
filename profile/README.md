@@ -1,12 +1,28 @@
-## Hi there 👋
+## 👩‍💻 Accio Hogsmeade
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<table align="center">
+    <tr align="center">
+        <td style="min-width: 150px;">
+            <a href="https://github.com/Chaos0103">
+              <img src="/img/limwt.jpeg" width="200">
+              <br />
+              <b>Chaos0103</b>
+            </a>
+        </td>
+        <td style="min-width: 150px;">
+            <a href="https://github.com/leeyr0412">
+              <img src="/img/leeyr.jpeg" width="200">
+              <br />
+              <b>leeyr0412</b>
+            </a> 
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            임우택<br/>FE & BE
+        </td>
+        <td>
+            이예리<br/>FE & BE
+        </td>
+    </tr>
+</table>
